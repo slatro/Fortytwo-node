@@ -1,0 +1,2 @@
+# Fortytwo-node
+FORTYTWO NETWORK NODE GUIDE
