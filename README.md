@@ -7,8 +7,8 @@ This guide will walk you through the process of setting up a @fortytwonetwork no
 
 personally, i run my node on a rented a gpu on [quickpod](https://console.quickpod.io/templates) 
 you can head to; (https://console.quickpod.io/templates) 
-*Sign up
-*Choose from the available GPUs you can afford and create a POD
-*Navigate to "my pods" and connect to your system via web
+* Sign up
+* Choose from the available GPUs you can afford and create a POD
+* Navigate to "my pods" and connect to your system via web
 
 
