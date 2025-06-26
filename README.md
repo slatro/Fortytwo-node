@@ -1,7 +1,7 @@
 # FORTYTWO NODE SET UP GUIDE
 This guide will walk you through the process of setting up a @fortytwonetwork node on WSL or any Linux based environment
 
-## NOTE: You have to be invited before running this node.
+## NOTE: You have to be invited before running this node. This node will only run a gpu system.
 
 ## Fill form to get invited: https://tally.so/r/wQzVQk
 
@@ -11,4 +11,7 @@ you can head to; (https://console.quickpod.io/templates)
 * Choose from the available GPUs you can afford and create a POD
 * Navigate to "my pods" and connect to your system via web
 
+
+
+GETTING STARTED
 
