@@ -11,7 +11,6 @@ you can head to; (https://console.quickpod.io/templates)
 * Choose from the available GPUs you can afford and create a POD
 * Navigate to "my pods" and connect to your system via web
 
-
-
-GETTING STARTED
+# SYSTEM REQUIREMENTS
+![Image](https://github.com/user-attachments/assets/5462ed3e-2d65-417e-8f94-293a70336b9f)
 
