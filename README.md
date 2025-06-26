@@ -14,3 +14,30 @@ you can head to; (https://console.quickpod.io/templates)
 # SYSTEM REQUIREMENTS
 ![Image](https://github.com/user-attachments/assets/5462ed3e-2d65-417e-8f94-293a70336b9f)
 
+# GETTING STARTED
+## Installing Prerequisites
+
+## 1. Install unzip:
+```bash
+apt update && apt install unzip -y
+```
+
+## 2. Install screen:
+```bash
+apt update && apt install screen -y
+```
+
+## 3. Install psmisc:
+```bash
+apt update && apt install psmisc -y
+```
+
+## 4. Install libgomp1:
+```bash
+apt update && apt install -y libgomp1
+```
+
+## 5. Install curl:
+```bash
+apt update && apt install -y curl unzip
+```
