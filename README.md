@@ -41,3 +41,9 @@ apt update && apt install -y libgomp1
 ```bash
 apt update && apt install -y curl unzip
 ```
+# RUNNING THE NODE
+
+## 6. Create a Fortytwo Directory:
+```bash
+mkdir -p ~/Fortytwo && cd ~/Fortytwo
+```
