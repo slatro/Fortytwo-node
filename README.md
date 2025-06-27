@@ -55,3 +55,24 @@ cd fortytwo-console-app-main
 chmod +x linux.sh && ./linux.sh
 ```
 
+## 8. As a new user, select option 1:
+![Image](https://github.com/user-attachments/assets/46c8648a-9f18-4fd3-8fb7-9177a248d473)
+
+## 9. Input the Activation Code you received from the invite mail:
+![Image](https://github.com/user-attachments/assets/b86dcfce-70db-46b0-8596-a005eba1bbf2)
+![Image](https://github.com/user-attachments/assets/74c1aebe-78af-4dd1-8258-04fbf8841f79)
+
+## 10. Select "0" or Hit The Enter Key To Auto-Select a Model (Recommended)
+![Image](https://github.com/user-attachments/assets/01ffc2ad-ac32-48e1-a680-e18516a93ca7)
+
+# 11. NODE STARTED SUCCESSFULLY 
+## IF YOU SEE THIS, YOU'RE GOOD. GO TO THE NEXT STEP
+![Image](https://github.com/user-attachments/assets/41b0ffb8-8f21-48bc-aea6-1865423706bd) 
+
+## 12. STOP NODE
+`ctrl` + `c`
+
+# RUNNING THE NODE IN A SCREEN:
+## 13. CREATE SCREEN:
+```bash
+screen -S Fortytwo
