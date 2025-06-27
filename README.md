@@ -41,12 +41,14 @@ apt update && apt install -y libgomp1
 ```bash
 apt update && apt install -y curl unzip
 ```
+
 # RUNNING THE NODE
 
 ## 6. Create a Fortytwo Directory:
 ```bash
 mkdir -p ~/Fortytwo && cd ~/Fortytwo
 ```
+
 ## 7. Run the following commands to download the node package, extract it, and execute the installation script:
 ```bash
 curl -L -o fortytwo-console-app.zip https://github.com/Fortytwo-Network/fortytwo-console-app/archive/refs/heads/main.zip
@@ -76,3 +78,13 @@ chmod +x linux.sh && ./linux.sh
 ## 13. CREATE SCREEN:
 ```bash
 screen -S Fortytwo
+
+## RUN THE NODE STARTUP SCRIPT
+```bash
+./linux.sh
+```
+## 14. CLOSE THE SCREEN:
+`ctrl` + `A` + `D`
+
+## THAT'S ALLFOR NOW, A RESTART GUIDE FOR EXISTING USERS WILL BE UPDATED SOON
+## G42 💜
