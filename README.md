@@ -67,7 +67,8 @@ chmod +x linux.sh && ./linux.sh
 ## 10. Select "0" or Hit The Enter Key To Auto-Select a Model (Recommended)
 ![Image](https://github.com/user-attachments/assets/01ffc2ad-ac32-48e1-a680-e18516a93ca7)
 
-# 11. NODE STARTED SUCCESSFULLY 
+# 11. NODE STARTED SUCCESSFULLY ✅
+
 ## IF YOU SEE THIS, YOU'RE GOOD. GO TO THE NEXT STEP
 ![Image](https://github.com/user-attachments/assets/41b0ffb8-8f21-48bc-aea6-1865423706bd) 
 
