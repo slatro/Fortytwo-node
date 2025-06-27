@@ -47,3 +47,11 @@ apt update && apt install -y curl unzip
 ```bash
 mkdir -p ~/Fortytwo && cd ~/Fortytwo
 ```
+## 7. Run the following commands to download the node package, extract it, and execute the installation script:
+```bash
+curl -L -o fortytwo-console-app.zip https://github.com/Fortytwo-Network/fortytwo-console-app/archive/refs/heads/main.zip
+unzip fortytwo-console-app.zip
+cd fortytwo-console-app-main
+chmod +x linux.sh && ./linux.sh
+```
+
