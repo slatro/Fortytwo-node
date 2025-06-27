@@ -1,7 +1,7 @@
 # FORTYTWO NODE SET UP GUIDE
 This guide will walk you through the process of setting up a @fortytwonetwork node on WSL or any Linux based environment
 
-## NOTE: You have to be invited before running this node. This node will only run a gpu system.
+## NOTE: You have to be invited before running this node. This node will only run on a gpu system.
 
 ## Fill form to get invited: https://tally.so/r/wQzVQk
 
