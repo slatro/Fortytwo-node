@@ -79,6 +79,7 @@ chmod +x linux.sh && ./linux.sh
 ## 13. CREATE SCREEN:
 ```bash
 screen -S Fortytwo
+```
 
 ## RUN THE NODE STARTUP SCRIPT
 ```bash
